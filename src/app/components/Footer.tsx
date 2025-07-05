@@ -5,5 +5,5 @@ export default function Footer() {
         &copy; {new Date().getFullYear()} Dietitian Lufuno. All rights reserved.
       </p>
     </footer>
-  )
+  );
 }

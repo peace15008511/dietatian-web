@@ -1,6 +1,6 @@
-'use client';
+"use client";
 
-import Link from 'next/link';
+import Link from "next/link";
 
 export default function Hero() {
   return (
@@ -37,7 +37,7 @@ export default function Hero() {
             Book Consultation
           </Link>
           <Link
-            href="https://wa.me/yourwhatsapplink"
+            href="https://wa.me/27623269690"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white text-green-700 hover:bg-gray-100 px-6 py-3 rounded-full text-lg font-semibold transition duration-300 shadow-lg"
