@@ -32,8 +32,9 @@ export default function About() {
               Lufuno Netshiavha is a registered dietitian. She graduated from
               the University of KwaZulu-Natal in 2019 and completed her
               community service as a dietitian in the North West Province under
-              the Madibeng Sub-District. She is currently pursuing her master's
-              degree at Sefako Makgatho Health Sciences University.
+              the Madibeng Sub-District. She is currently pursuing her
+              master&apos;s degree at Sefako Makgatho Health Sciences
+              University.
             </p>
             <p>
               Her mission as a dietitian is to guide people of different
