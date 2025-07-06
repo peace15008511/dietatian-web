@@ -21,7 +21,7 @@ export default function Footer() {
               href="tel:+27623269690"
               className="text-blue-600 hover:underline"
             >
-              +27 71 234 5678
+              +27 62 326 9690
             </a>
           </p>
           <p>
@@ -30,7 +30,7 @@ export default function Footer() {
               href="mailto:bookings@dietitianlufuno.co.za"
               className="text-blue-600 hover:underline"
             >
-              info@dietitianlufuno.co.za
+              bookings@dietitianlufuno.co.za
             </a>
           </p>
         </div>
