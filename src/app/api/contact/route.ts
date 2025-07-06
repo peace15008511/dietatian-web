@@ -26,7 +26,7 @@ export async function POST(req: Request) {
       pass: process.env.EMAIL_PASS!,
     },
   });
-
+  /*
   try {
     console.log("🔍 Verifying SMTP connection...");
     await transporter.verify();
@@ -38,6 +38,7 @@ export async function POST(req: Request) {
       { status: 500 }
     );
   }
+  */
 
   try {
     console.log("📤 Sending email...");

@@ -31,10 +31,10 @@ export default function Hero() {
         </p>
         <div className="flex justify-center gap-4 flex-wrap">
           <Link
-            href="/book"
+            href="/contact"
             className="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-full text-lg font-semibold transition duration-300 shadow-lg"
           >
-            Book Consultation
+            Book Your Virtual Consultation
           </Link>
           <Link
             href="https://wa.me/27623269690"

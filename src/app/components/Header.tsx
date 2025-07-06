@@ -44,7 +44,7 @@ export default function Header() {
             href="/contact"
             className="bg-green-600 text-white px-5 py-2 rounded-full hover:bg-green-700 transition"
           >
-            Book Now
+            Book Your Virtual Consultation
           </Link>
         </nav>
 
@@ -108,7 +108,7 @@ export default function Header() {
             className="bg-green-600 text-white px-6 py-3 rounded-full hover:bg-green-700 transition w-3/4 text-center"
             onClick={() => setMobileOpen(false)}
           >
-            Book Now
+            Book Your Virtual Consultation
           </Link>
         </nav>
       </div>
