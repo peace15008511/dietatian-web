@@ -1,4 +1,4 @@
-import { Linkedin } from "lucide-react";
+import { Linkedin, Youtube } from "lucide-react";
 import Link from "next/link";
 
 export default function Footer() {
@@ -41,10 +41,20 @@ export default function Footer() {
             href="https://www.linkedin.com/in/lufuno-netshiavha-93a6961a3"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-gray-600 hover:text-blue-700 transition"
+            className="text-blue-700 hover:text-blue-600 transition"
             aria-label="LinkedIn"
           >
             <Linkedin size={24} />
+          </Link>
+
+          <Link
+            href="https://youtube.com/@livinghealthywithlu"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-red-700 hover:text-red-600 transition"
+            aria-label="YouTube"
+          >
+            <Youtube size={24} />
           </Link>
         </div>
       </div>
