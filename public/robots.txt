@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.dietitianlufuno.co.za
+
+# Sitemaps
+Sitemap: https://www.dietitianlufuno.co.za/sitemap.xml

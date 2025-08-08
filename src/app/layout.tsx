@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.dietitianlufuno.co.za"),
   title: "Dietitian Lufuno | Nourish Your Body. Empower Your Life.",
   description:
     "Get personalised nutrition advice from Dietitian Lufuno. Book consultations, meal plans, and wellness guidance.",
